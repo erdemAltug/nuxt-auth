@@ -1,5 +1,13 @@
 # nuxt-auth
 
+Login Page
+![mukellef 3](https://github.com/erdemAltug/nuxt-auth/assets/36854139/9739969a-e11d-436e-8640-1161b9f2cd77)
+
+Main Page
+![mukellef 2](https://github.com/erdemAltug/nuxt-auth/assets/36854139/8e7b8586-aeb4-4299-9bfc-92ef1d5ea98c)
+
+
+
 ## Build Setup
 
 ```bash
